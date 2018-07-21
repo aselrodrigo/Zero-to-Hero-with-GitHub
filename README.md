@@ -1,1 +1,1 @@
-![header](/session_01/sources/session01.png)
+![header](/session_01/sources/cover.png)
