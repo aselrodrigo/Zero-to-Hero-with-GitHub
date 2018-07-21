@@ -1,4 +1,4 @@
-![header](sources/session01.png)
+![header](sources/cover.png)
 
 
 # Zero-to-Hero-with-GitHub (Session 01)
